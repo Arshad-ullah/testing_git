@@ -19,3 +19,5 @@ arshad khan nice to meet you
 arshad khan chrta tala we
 
 add login page and merge
+-----------------------------------
+add farakh model
