@@ -17,4 +17,9 @@ arshad khan nice to meet you
 
 --------------------------------------
 arshad khan chrta tala we
-// add farakh khan nice to meet you 
+
+
+add login page and merge
+-----------------------------------
+add farakh model
+
